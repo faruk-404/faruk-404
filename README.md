@@ -16,8 +16,8 @@ I am a passionate competitive programmer who loves solving algorithmic challenge
 
 ### 🏆 Coding Profiles
 - **Codeforces:** [md_faruk09](https://codeforces.com/profile/md_faruk09)
-- **Codeforces:** [faruk_404](https://codeforces.com/profile/faruk_404)
 - **CodeChef:** [faruk_cf_0](https://www.codechef.com/users/faruk_cf_0)
+- **AtCoder:** [faruk_404](https://atcoder.jp/users/faruk_404)
 
 ### 📊 GitHub Stats
 <p align="center">
