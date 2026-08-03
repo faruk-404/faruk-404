@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Md Faruk Hossain! 👋
+### 👨‍💻 Competitive Programmer | PUSTian
 
-<!--
-**faruk-404/faruk-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate competitive programmer who loves solving algorithmic challenges and data structure problems. 
 
-Here are some ideas to get you started:
+- 🎓 Currently studying at **Pabna University of Science and Technology (PUST)**
+- 💡 Focused on Problem Solving and Algorithms
+- 💻 Most of my competitive programming codes are in **C++**
+- 📫 How to reach me: **faruk.x.404@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Language & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
+
+### 🏆 Coding Profiles
+- **Codeforces:** [md_faruk09](https://codeforces.com/profile/md_faruk09)
+- **Codeforces:** [faruk_404](https://codeforces.com/profile/faruk_404)
+- **CodeChef:** [faruk_cf_0](https://www.codechef.com/users/faruk_cf_0)
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faruk-404&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/faruk404"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
