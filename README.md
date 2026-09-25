@@ -19,11 +19,6 @@ I am a passionate competitive programmer who loves solving algorithmic challenge
 - **CodeChef:** [faruk_cf_0](https://www.codechef.com/users/faruk_cf_0)
 - **AtCoder:** [faruk_404](https://atcoder.jp/users/faruk_404)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faruk-404&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/faruk404"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
